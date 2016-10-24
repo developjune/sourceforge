@@ -1,2 +1,2 @@
 # sourceforge
-development sourceforge team
+developers of sourceforge team
