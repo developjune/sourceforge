@@ -4,4 +4,5 @@ public static void main(String[] args) {
   System.out.println("We are Sourceforge team");
   System.out.println("Create Main Class");
   System.out.println("2010244103 정성민 방문");
+  System.out.println("2010244011 우재원 방문");
 }
